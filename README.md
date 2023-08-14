@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Titanic Survival Prediction
 This notebook presents a prediction of survival on the Titanic, using a data set available in Kaggle. The dataset contains information about passengers aboard the Titanic, including age, gender, class, and more. The specific dataset used in this project can be found at https://www.kaggle.com/competitions/titanic/data.
 
